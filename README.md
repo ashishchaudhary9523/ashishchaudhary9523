@@ -13,7 +13,7 @@ I'm a passionate Full Stack Web Developer and a student at ITER SOA University. 
 ### [Secure Echos](https://secure-echos.netlify.app/)
 A secure communication platform featuring end-to-end encrypted messaging.
 - **Backend:** [secure-echos-api](https://github.com/ashishchaudhary9523/secure-echos-api)
-- **Frontend:** [secure-echos-frontend](https://github.com/ashishchaudhary9523/secure-echos-frontend)
+- **Frontend:** [secure-echos-frontend](https://github.com/ashishchaudhary9523/secure-echos-final-frontend)
 - **Live Site:** [secure-echos.netlify.app](https://secure-echos.netlify.app/)
 
 ### [Blog REST API](https://github.com/ashishchaudhary9523/blog-rest-api)
